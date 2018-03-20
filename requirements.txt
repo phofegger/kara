@@ -1,0 +1,3 @@
+Python 2.7.x
+Numpy (preferably Anaconda 4.1.x or lower)
+g++ compiler recommended (to speed up calculations)
